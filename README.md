@@ -1,6 +1,8 @@
 ### Hi there!
 
 💻 Open to new job opportunities
+📚 So into JavaScript and Python
+📬 Contact me at andreevgeorge@yandex.ru
 
 [![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreevgeorge)](https://github.com/andreevgeorge/)
 
