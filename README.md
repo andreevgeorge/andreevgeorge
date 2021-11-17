@@ -8,7 +8,9 @@
 
 ### Контакты:
 
-<img align="left" alt="juljuliks | Telegram" width="30px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />
+<img align="left" alt="juljuliks | Telegram" width="30px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" /> 
+
+<br>
 
 ---
 [![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreevgeorge)](https://github.com/andreevgeorge/)
