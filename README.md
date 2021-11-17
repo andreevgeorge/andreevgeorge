@@ -10,10 +10,11 @@
 
 <img align="left" alt="andreevgeorge | Telegram" width="30px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" /> 
 <img align="left" alt="andreevgeorge | WhatsApp" width="30px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />
-[<img align="left" alt="andreevgeorge | Leetcode" width="25px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" />][leetcode]
+[<img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" />][leetcode]
 
 <br>
 
+[leetcode]:https://leetcode.com/andreevgeorge/
 ---
 [![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreevgeorge&theme=graywhite)](https://github.com/andreevgeorge/)
 
@@ -32,4 +33,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[leetcode]: https://leetcode.com/andreevgeorge/
+
