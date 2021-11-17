@@ -1,8 +1,8 @@
 ### Hi there!
 
 💻 Open to new job opportunities<br>
-📚 So much into JavaScript and Python<br>
-📬 Contact me at: andreevgeorge@yandex.ru
+📚 Much into JavaScript and Python<br>
+📬 Contact me at: andreevgeorge@yandex.ru or via messngers below
 
 ---
 
