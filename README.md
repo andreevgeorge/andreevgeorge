@@ -14,7 +14,7 @@
 <br>
 
 ---
-[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreevgeorge)](https://github.com/andreevgeorge/)
+[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreevgeorge&theme=graywhite)](https://github.com/andreevgeorge/)
 
 <!--
 **andreevgeorge/andreevgeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
