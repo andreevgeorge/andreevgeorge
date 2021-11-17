@@ -10,7 +10,7 @@
 
 <img align="left" alt="andreevgeorge | Telegram" width="30px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" /> 
 <img align="left" alt="andreevgeorge | WhatsApp" width="30px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />
-[<img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" />][leetcode]
+[<img align="left" alt="andreevgeorge | Leetcode" width="25px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" />]
 
 <br>
 
