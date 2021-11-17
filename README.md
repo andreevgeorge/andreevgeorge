@@ -14,7 +14,6 @@
 
 <br>
 
-[leetcode]:https://leetcode.com/andreevgeorge/
 ---
 [![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreevgeorge&theme=graywhite)](https://github.com/andreevgeorge/)
 
