@@ -2,13 +2,14 @@
 
 💻 Open to new job opportunities<br>
 📚 Much into JavaScript and Python<br>
-📬 Contact me at: andreevgeorge@yandex.ru or via messngers below
+📬 Contact me at: andreevgeorge@yandex.ru (or via messengers below)
 
 ---
 
 ### Контакты:
 
 <img align="left" alt="juljuliks | Telegram" width="30px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" /> 
+<img align="left" alt="juljuliks | WhatsApp" width="30px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />
 
 <br>
 
