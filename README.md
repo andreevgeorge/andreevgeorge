@@ -1,4 +1,4 @@
-### Hi there! 
+### Hi there 
 
 💻   I'm open to new job opportunities<br>
 📚   And much into JavaScript and Python<br>
