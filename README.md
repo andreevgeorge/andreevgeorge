@@ -16,7 +16,7 @@
 
 ---
 ### My Tech Stack
-[<img align="left" alt="andreevgeorge | JS" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" />]
+<img align="left" alt="andreevgeorge | JS" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" />
 ---
 [![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreevgeorge&theme=graywhite)](https://github.com/andreevgeorge/)
 
