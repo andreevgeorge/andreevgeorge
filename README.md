@@ -20,7 +20,7 @@
 [<img align="left" alt="andreevgeorge | JS" width="30px" src="https://d2908q01vomqb2.cloudfront.net/0716d9708d321ffb6a00818614779e779925365c/2020/12/11/ts-logo-512.png" />][ts]
 [<img align="left" alt="andreevgeorge | JS" width="30px" src="https://icon-library.com/images/react-icon/react-icon-29.jpg" />][react]
 [<img align="left" alt="andreevgeorge | JS" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][py]
-[<img align="left" alt="andreevgeorge | JS" width="30px" src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" />][flask]
+[<img align="left" alt="andreevgeorge | JS" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" />][flask]
 <br>
 
 ---
