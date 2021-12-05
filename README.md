@@ -9,6 +9,7 @@
 [<img align="left" alt="andreevgeorge | JS" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" />][js]
 [<img align="left" alt="andreevgeorge | JS" width="30px" src="https://d2908q01vomqb2.cloudfront.net/0716d9708d321ffb6a00818614779e779925365c/2020/12/11/ts-logo-512.png" />][ts]
 [<img align="left" alt="andreevgeorge | JS" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxyQcRd6EYCxC7HI9cF7aqgyTTRNALPl6dA&usqp=CAU" />][react]
+[<img align="left" alt="andreevgeorge | JS" width="30px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" />][sql]
 [<img align="left" alt="andreevgeorge | JS" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][py]
 [<img align="left" alt="andreevgeorge | JS" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" />][flask]
 <br>
@@ -40,6 +41,7 @@
 [react]: https://github.com/andreevgeorge/
 [py]: https://github.com/andreevgeorge/
 [flask]: https://github.com/andreevgeorge/
+[sql]: https://github.com/andreevgeorge/
 
 
 
