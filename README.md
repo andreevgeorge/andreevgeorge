@@ -1,7 +1,8 @@
 ### Hi there 
 
-💻   I'm open to new job opportunities<br>
-📚   And much into JavaScript and Python<br>
+💻   I'm open to new job opportunities,<br>
+📚   Much into JavaScript and Python<br>
+:bulb: And a hackathon goer!
 📬   Contact me at: andreevgeorge@yandex.ru (or via messengers below)
 
 ---
