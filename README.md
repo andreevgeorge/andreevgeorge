@@ -15,6 +15,8 @@
 [<img align="left" alt="andreevgeorge | JS" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][py]
 [<img align="left" alt="andreevgeorge | JS" width="85px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" />][flask]
 <br>
+<br>
+<br>
 
 ---
 ### Contacts and Links:
