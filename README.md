@@ -16,7 +16,6 @@
 [<img align="left" alt="andreevgeorge | JS" width="85px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" />][flask]
 <br>
 <br>
-<br>
 
 ---
 ### Contacts and Links:
@@ -25,6 +24,7 @@
 [<img align="left" alt="andreevgeorge | WhatsApp" width="35px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
 [<img align="left" alt="andreevgeorge | Leetcode" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" />][leetcode]
 
+<br>
 <br>
 
 ---
