@@ -22,7 +22,7 @@
 
 [<img align="left" alt="andreevgeorge | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 [<img align="left" alt="andreevgeorge | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
-[<img align="left" alt="andreevgeorge | Leetcode" width="45px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" />][leetcode]
+[<img align="left" alt="andreevgeorge | Leetcode" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" />][leetcode]
 
 <br>
 <br>
