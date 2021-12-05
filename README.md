@@ -16,7 +16,11 @@
 
 ---
 ### My Tech Stack
-<img align="left" alt="andreevgeorge | JS" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" />
+[<img align="left" alt="andreevgeorge | JS" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" />]
+[<img align="left" alt="andreevgeorge | JS" width="30px" src="https://d2908q01vomqb2.cloudfront.net/0716d9708d321ffb6a00818614779e779925365c/2020/12/11/ts-logo-512.png" />]
+[<img align="left" alt="andreevgeorge | JS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png" />]
+
+
 ---
 [![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreevgeorge&theme=graywhite)](https://github.com/andreevgeorge/)
 
