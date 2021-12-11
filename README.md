@@ -36,8 +36,8 @@
 ### My progress on Leetcode :
 
 [![George's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=andreevgeorge)](https://github.com/andreevgeorge/leetcode-stats)
-<br>
-
+<!-- <br>
+ -->
 ---
 <!-- [![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreevgeorge&theme=graywhite)](https://github.com/andreevgeorge/)
  -->
