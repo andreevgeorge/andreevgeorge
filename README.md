@@ -39,8 +39,8 @@
 <br>
 
 ---
-[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreevgeorge&theme=graywhite)](https://github.com/andreevgeorge/)
-
+<!-- [![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreevgeorge&theme=graywhite)](https://github.com/andreevgeorge/)
+ -->
 
 [telegram]: https://t.me/georgyandreev
 [whatsapp]: https://wa.me/79154571727
